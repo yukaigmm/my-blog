@@ -1,3 +1,5 @@
 <template>
-    <div>hello yukai</div>
+    <div>
+        <p>动态编程语言是指在编译阶段执行的操作可以在运行阶段时执行。比如，在JavaScript中， 我们可以在程序运行中，改变变量的类型或者为一个对象增加一个新属性或者方法。</p>
+    </div>
 </template>
